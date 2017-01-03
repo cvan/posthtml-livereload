@@ -24,7 +24,7 @@ npm i -D posthtml-livereload
 <script src="//localhost:35729/livereload.js?snipver=1" async defer></script>
 ```
 
-###### {hostname: '0.0.0.0', port: 5309, path: '/lr.js'}
+###### `{hostname: '0.0.0.0', port: 5309, path: '/lr.js'}`
 ```html
 <script src="//0.0.0.0:5309/lr.js" async defer></script>
 ```
